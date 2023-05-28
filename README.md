@@ -1,10 +1,12 @@
 [![Header](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder)
 
-# I'm a junior Quality Assurance Engineer
+# Привет! Я Junior Qality Assurance Engineer
+
+### Я рад представить Вам мое портфолио для ознакомления с моими навыками. Все артефакты созданы мной.
 
 
 
-## Languages and tools
+## Мои навыки
 
 ![GitHub](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github)
 ![jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
@@ -18,28 +20,36 @@
 ![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 
-## Testing Documentation
+## Тестовая документация
 
-### Specification of requirements
+### Спецификация
 
-- [**Emotion**](https://martspec.atlassian.net/l/cp/P4ueMs9g)
--[Emotion]()
+- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) (На проекте нет спецификации, написал спек, чтоб писать чек листы, да и джунам после меня будет легче стартовать)
 
-### Check List
+
+### Чек листы
 
 - **Emotion** Check List
 
-### Test Case
+### Тест кейсы
 
 
 
-### Test Plan
+### Тест план
 
 Emotion Test Plan
 
-### Test Report
+### Отчет о тестировании
 
 
+
+
+
+## Автотестирование
+*В процессе стажировки осваиваю автоматизацию, что бы автоматизировать рутинные задачи в будущем.*
+
+### Пробный авто-тест на проверку [страницы](https://martspec.com/) на наличие страницы приложения "Витамин" и правильных мета тегов для поисковиков.
+- [MartspecAutoMeta](https://github.com/Mixarder/MartspecAutoTests1)
 
 
 
