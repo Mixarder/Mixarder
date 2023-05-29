@@ -1,10 +1,12 @@
 [![Header](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder)
 
-# Привет! Я Junior Qality Assurance Engineer
+# **Привет! Меня зовут Михаил! Я Qality Assurance Engineer**
 
-### Я рад представить Вам мое портфолио для ознакомления с моими навыками. Все артефакты созданы мной.
+<br>
 
+## Я рад представить Вам мое портфолио для ознакомления с моими навыками. <br> Все артефакты созданы мной.
 
+<br>
 
 ## Мои навыки
 
@@ -19,44 +21,80 @@
 ![Selenide](https://img.shields.io/badge/-selenide-090909?style=for-the-badge&logo=selenium)
 ![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
-## Тестовая документация
+<br><br>
 
-### Спецификация
+# Тестовая документация
 
-На проекте нет спецификации, написал спек, чтоб писать чек листы, да и джунам после меня будет легче стартовать.
+<br>
 
-- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence, проходит криво, прошу прощение за форматирование, в оригинале все красиво")
+### **Спецификация к приложению**
 
+<br>
 
-### Чек листы
+*На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- **Emotion** Check List
+- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence, проходит криво, прошу прощение за форматирование, в оригинале все красиво. Со временем обязательно оформлю красиво и для гитхаб")
 
-### Тест кейсы
-
-
-
-### Тест план
-
-Emotion Test Plan
-
-### Отчет о тестировании
+<br>
 
 
+### **Тест план**
+
+ - [Emotion]()
+
+ <br>
+
+### **Чек листы**
+
+- [Emotion]()
+
+<br>
+
+### **Тест кейсы**
+
+- [Emotion]()
+
+<br>
+
+### **Отчет о тестировании**
+
+- [Emotion]()
+
+<br><br>
 
 
 
-## Автотестирование
-*В процессе стажировки осваиваю автоматизацию, что бы автоматизировать рутинные задачи в будущем.*
 
-### Пробный авто-тест на проверку [страницы](https://martspec.com/) на наличие страницы приложения "Витамин" и правильных мета тегов для поисковиков.
+# **Автотестирование**
+*Паралельно с выполнением своих обязанностей, осваиваю автоматизацию, что бы автоматизировать рутинные задачи.*
+
+<br>
+
+### Пробный авто-тест на проверку:
+1. [Главной страницы](https://martspec.com/) на наличие страницы  "Витамин" и правильных  тегов title и meta для поисковиков.
+2. Наличие на странице "Витамин" правильных  тегов title и meta
+3. Тестирование в Локализациях: RU и EN
 - [MartspecAutoMeta](https://github.com/Mixarder/MartspecAutoTests1)
 
+<br><br><br>
 
+# **HTML и CSS**
+*Прошел буткемп по верстке, чтоб лучше понимать, что такое Веб*
 
-### links: 
+<br>
+
+- [Веб страница со стилями CSS](https://github.com/Mixarder/myFirstFigmaCss)
+
+<br>
+<br>
+
+### Как со мной можно связаться: 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mixard)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/mike-tarasenko-qa)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/shadowtenka)
 
+<br>
+<br>
+<br>
