@@ -42,7 +42,7 @@
 
 ### **Тест план**
 
- - [Emotion]()
+ - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md)
 
  <br>
 
@@ -60,7 +60,7 @@
 
 ### **Отчет о тестировании**
 
-- [Emotion]()
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md)
 
 <br><br>
 
