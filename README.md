@@ -23,7 +23,7 @@
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
-<br><br>
+<br>
 
 # Тестовая документация
 
@@ -35,32 +35,32 @@
 
 *На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence, проходит криво, прошу прощение за форматирование, в оригинале все красиво. Со временем обязательно оформлю красиво и для гитхаб")
+- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence, проходит криво, прошу прощение за форматирование,<br> в оригинале все красиво. Со временем обязательно оформлю красиво и для гитхаб")
 
 <br>
 
 
 ### **Тест план**
 
- - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md)
+ - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md) - Положил начало тестированию в компании.
 
  <br>
 
 ### **Чек листы**
 
-- [Emotion]()
+- [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) - Написал один большой чек лист по всему приложению. 
 
 <br>
 
 ### **Тест кейсы**
 
-- [Emotion]()
+- [Emotion](https://docs.google.com/spreadsheets/d/1ijUcIafTTJ8n7wXpHnUkmc9Cv7rzhq0mx-89DPYoBPA/edit?usp=sharing) - Тест кейсы используем для ретеста багов после фикс. Хранятся они у нас в Zephyr,<br> несколько штук перенес в гугл таблицы для демонстрации.
 
 <br>
 
 ### **Отчет о тестировании**
 
-- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md)
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) - Кратко описал как прошло тестирование, чтоб держать разработчика в курсе.
 
 <br><br>
 
@@ -68,7 +68,8 @@
 
 
 # **Автотестирование**
-*Паралельно с выполнением своих обязанностей, осваиваю автоматизацию, что бы автоматизировать рутинные задачи.*
+*Паралельно с выполнением своих обязанностей, осваиваю автоматизацию, что бы автоматизировать рутинные задачи.*<br>
+Тесты пишу на языке **JAVA** в **IntelliJ IDEA CE** для сборки использую **Gradle**<br>
 
 <br>
 
