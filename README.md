@@ -99,8 +99,21 @@
 # Коммуникативность
 
 Лиду понравилась моя коммуникативность, поэтому он предложил, чтоб общение с QA стажерами<br>
-шло через меня. Лид дает мне задание, а я доступно объясняю ребятам, что нужно сделать.
-![pic1](https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png)  ![pic1](https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png)
+
+
+<style>
+    .image-container {
+        display: flex;
+    }
+    .image-container img {
+        max-width: 50%;
+    }
+</style>
+
+<div class="image-container">
+    <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" alt="pic001">
+    <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" alt="pic002">
+</div>
 
 ### Как со мной можно связаться: 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mixard)
