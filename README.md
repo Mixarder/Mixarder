@@ -100,12 +100,12 @@
 
 Лиду понравилась моя коммуникативность, поэтому он предложил, чтоб общение с QA стажерами<br>шла через меня.
 
-<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" target="_blank">
-  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" alt="pic001" style="max-width: 300px;">
+<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.PNG" target="_blank">
+  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.PNG" alt="pic001" style="max-width: 300px;">
 </a>
 
-<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" target="_blank">
-  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" alt="pic002" style="max-width: 300px;">
+<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.PNG" target="_blank">
+  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.PNG" alt="pic002" style="max-width: 300px;">
 </a>
 
 ### Как со мной можно связаться: 
