@@ -98,10 +98,15 @@
 
 # Коммуникативность
 
-Лиду понравилась моя коммуникативность, поэтому он предложил, чтоб общение с QA стажерами<br>
+Лиду понравилась моя коммуникативность, поэтому он предложил, чтоб общение с QA стажерами<br>шла через меня.
 
-![pic001](https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png)
-![pic002](https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png)
+<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" target="_blank">
+  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" alt="pic001" style="max-width: 300px;">
+</a>
+
+<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" target="_blank">
+  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" alt="pic002" style="max-width: 300px;">
+</a>
 
 ### Как со мной можно связаться: 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mixard)
