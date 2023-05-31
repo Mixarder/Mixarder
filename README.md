@@ -86,7 +86,8 @@
 
 <br>
 
-- [Веб страница со стилями CSS](https://github.com/Mixarder/myFirstFigmaCss)
+- [Код](https://github.com/Mixarder/Mixarder.github.io)
+- [Веб](https://mixarder.github.io/)
 
 <br>
 <br>
