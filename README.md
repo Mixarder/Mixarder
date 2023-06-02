@@ -93,13 +93,14 @@
 <br>
 
 # Postman
- Создал  [коллекцию](https://github.com/Mixarder/Postman_Traning_DummyAPI) автоматизированных тестов, правда для тренировочного сайта, к cожалению не довелось поработать <br> с реальными данными, но вы всегда можете дать мне тестовое задание.
+*Нравится тестировать API, очень интересно!*
+   - [Коллекция тестов](https://github.com/Mixarder/Postman_Traning_DummyAPI) 
  
  <br>
 
 # Коммуникативность
 
-Лиду понравилась моя коммуникативность, поэтому он предложил, чтоб общение с QA стажерами<br>шла через меня.
+*В Martspec провожу онбординг QA стажеров и распределяю поступаемые задачи.*
 
 <a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" target="_blank">
   <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" alt="pic001" style="max-width: 300px;">
@@ -113,6 +114,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mixard)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mike-tarasenko-qa/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/shadowtenka)
+
 
 <br>
 <br>
