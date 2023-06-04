@@ -73,11 +73,11 @@
 
 <br>
 
-### Пробный авто-тест на проверку:
-1. [Главной страницы](https://martspec.com/) на наличие страницы  "Витамин" и правильных  тегов title и meta для поисковиков.
-2. Наличие на странице "Витамин" правильных  тегов title и meta
-3. Тестирование в Локализациях: RU и EN
-- [MartspecAutoMeta](https://github.com/Mixarder/MartspecAutoTests1)
+### Авто-тест на проверку тегов title и meta:
+1. [Главной страницы](https://martspec.com/) на наличие правильных тегов title и meta для поисковиков.
+2. Hаличие правильных тегов title и meta для страниц содержащихся в дропдаун на Главной странице. 
+3. Тестирование в Локализациях: RU
+- [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
 
 <br><br><br>
 
