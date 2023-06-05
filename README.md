@@ -22,6 +22,7 @@
 ![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-090909?style=for-the-badge&logo=intellijidea)
 
 <br>
 
@@ -35,7 +36,7 @@
 
 *На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence, проходит криво, прошу прощение за форматирование,<br> в оригинале все красиво. Со временем обязательно оформлю красиво и для гитхаб")
+- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence в PDF происходит с нарушением форматирования, <br>как найду лучший способ, исправить это, обязательно все поправлю.")
 
 <br>
 
@@ -48,19 +49,19 @@
 
 ### **Чек листы**
 
-- [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) - Написал один большой чек лист по всему приложению. 
+- [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) - На основе написанной спецификации, написал чек лист.
 
 <br>
 
 ### **Тест кейсы**
 
-- [Emotion](https://docs.google.com/spreadsheets/d/1ijUcIafTTJ8n7wXpHnUkmc9Cv7rzhq0mx-89DPYoBPA/edit?usp=sharing) - Тест кейсы используем для ретеста багов после фикс. Хранятся они у нас в Zephyr,<br> несколько штук перенес в гугл таблицы для демонстрации.
+- [Emotion](https://docs.google.com/spreadsheets/d/1ijUcIafTTJ8n7wXpHnUkmc9Cv7rzhq0mx-89DPYoBPA/edit?usp=sharing) - Тест кейсы использую для ретеста  после исправления. Хранятся они у нас в Zephyr,<br> несколько штук перенес в гугл таблицы для демонстрации.
 
 <br>
 
 ### **Отчет о тестировании**
 
-- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) - Кратко описал как прошло тестирование, чтоб держать разработчика в курсе.
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) - Держу руководителя в курсе о состояни продукта.
 
 <br><br>
 
@@ -76,7 +77,7 @@
 ### Авто-тест на проверку тегов title и meta:
 1. [Главной страницы](https://martspec.com/) на наличие правильных тегов title и meta для поисковиков.
 2. Hаличие правильных тегов title и meta для страниц содержащихся в дропдаун на Главной странице. 
-3. Тестирование в Локализациях: RU
+3. Тестирование в Локализациях: RU, EN, UK, DE, FR
 - [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
 
 <br><br><br>
@@ -93,7 +94,7 @@
 <br>
 
 # Postman
-*Нравится тестировать API, очень интересно!*
+*Набор тестов, с элементами автоматизации*
    - [Коллекция тестов](https://github.com/Mixarder/Postman_Traning_DummyAPI) 
  
  <br>
