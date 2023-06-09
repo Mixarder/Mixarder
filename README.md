@@ -82,7 +82,7 @@
 
 ### Скрипт на проверку рабочих ссылок sitemap.xml 
 
-+ [скрипт]()
++ [скрипт](https://github.com/Mixarder/check_sitemap_links_TEST)
 <br><br><br>
 
 # **HTML и CSS**
