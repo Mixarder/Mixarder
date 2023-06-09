@@ -1,10 +1,8 @@
-[![Header](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder)
+[![MyHeader.png](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder)
 
-# **Привет! Меня зовут Михаил! Я Qality Assurance Engineer**
+> "Тестирование - это ключевой этап разработки программного обеспечения."
 
-<br>
-
-## Я рад представить Вам мое портфолио для ознакомления с моими навыками. <br> Все артефакты созданы мной.
+Привет, я Mike Tarasenko, QA инженер с увлечением и любовью к тестированию программного обеспечения. Моей целью является обеспечение высокого качества продукта и улучшение пользовательского опыта.
 
 <br>
 
@@ -13,20 +11,45 @@
 ![GitHub](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github)
 ![jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=blue)
-![zephyr](https://img.shields.io/badge/-zephyr-090909?style=for-the-badge&logo=zephyr)
+![zephyr](https://img.shields.io/badge/-zephyr-090909?style=for-the-badge&logo=atlassian&logoColor=blue)
 ![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=)
 ![c#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C)
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=grey)
 ![Selenide](https://img.shields.io/badge/-selenide-090909?style=for-the-badge&logo=selenium)
-![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle)
+![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle&logoColor=blue)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-090909?style=for-the-badge&logo=intellijidea)
+![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualStudioCode&logoColor=blue)
 
 <br>
 
-# Тестовая документация
+## Опыт работы
+
+### QA инженер - Martspec LLC (Начало работы: март 2023)
+
+<br>
+
+- Разработка и выполнение тестовых сценариев
+- Создание и поддержка автоматизированных тестов
+- Анализ и отчетность о найденных дефектах
+- Взаимодействие с разработчиками для улучшения качества продукта
+
+<br>
+
+## Образование
+
+- [GeekBrains](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестировщик (ноябрь 2022 - апрель 2023)
+- [Stepik](https://stepik.org/cert/19351185) - Вселенная тестирования или как стать тестировщиком
+- [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
+- [QA*GURU](https://qa.guru/) - Курс по автоматизированному тестированию (*В процессе обучения*)
+- [СКФУ](https://github.com/Mixarder/Mixarder/blob/main/assets/skfu.png) - Юридический факультет (2001-2006)
+- [Центр Компьютерных технологий](*) - Мастер по ремонту ПК (2000)
+
+<br>
+
+# Артефакты
 
 <br>
 
@@ -36,14 +59,13 @@
 
 *На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- [**Emotion**](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence в PDF происходит с нарушением форматирования, <br>как найду лучший способ, исправить это, обязательно все поправлю.")
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence в PDF происходит с нарушением форматирования, <br> как найду лучший способ, исправить это, обязательно все поправлю.")
 
 <br>
 
-
 ### **Тест план**
 
- - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md) - Положил начало тестированию в компании.
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md) - Положил начало тестированию в компании.
 
  <br>
 
@@ -65,27 +87,28 @@
 
 <br><br>
 
-
-
-
 # **Автотестирование**
+
 *Паралельно с выполнением своих обязанностей, осваиваю автоматизацию, что бы автоматизировать рутинные задачи.*<br>
 Тесты пишу на языке **JAVA** в **IntelliJ IDEA CE** для сборки использую **Gradle**<br>
 
 <br>
 
-### Авто-тест на проверку тегов title и meta:
+### Авто-тест на проверку тегов title и meta
+
 1. [Главной страницы](https://martspec.com/) на наличие правильных тегов title и meta для поисковиков.
-2. Hаличие правильных тегов title и meta для страниц содержащихся в дропдаун на Главной странице. 
+2. Hаличие правильных тегов title и meta для страниц содержащихся в дропдаун на Главной странице.
 3. Тестирование в Локализациях: RU, EN, UK, DE, FR
+
 - [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
 
-### Скрипт на проверку рабочих ссылок sitemap.xml 
+### Скрипт на проверку рабочих ссылок sitemap.xml
 
-+ [скрипт](https://github.com/Mixarder/check_sitemap_links_TEST)
+- [скрипт](https://github.com/Mixarder/check_sitemap_links_TEST)
 <br><br><br>
 
 # **HTML и CSS**
+
 *Прошел буткемп по верстке, чтоб лучше понимать, что такое Веб*
 
 <br>
@@ -97,12 +120,14 @@
 <br>
 
 # Postman
+
 *Набор тестов, с элементами автоматизации*
-   - [Коллекция тестов](https://github.com/Mixarder/Postman_Traning_DummyAPI) 
- 
+
+- [Коллекция тестов](https://github.com/Mixarder/Postman_Traning_DummyAPI)
+
  <br>
 
-# Коммуникативность
+# Коммуникбельность
 
 *В Martspec провожу онбординг QA стажеров и распределяю поступаемые задачи.*
 
@@ -114,11 +139,11 @@
   <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" alt="pic002" style="max-width: 300px;">
 </a>
 
-### Как со мной можно связаться: 
+## Связаться со мной
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mixard)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mike-tarasenko-qa/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/shadowtenka)
-
 
 <br>
 <br>
