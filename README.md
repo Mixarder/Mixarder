@@ -80,6 +80,9 @@
 3. Тестирование в Локализациях: RU, EN, UK, DE, FR
 - [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
 
+### Скрипт на проверку рабочих ссылок sitemap.xml 
+
++ [скрипт]()
 <br><br><br>
 
 # **HTML и CSS**
