@@ -41,11 +41,11 @@
 ## Образование
 
 - [GeekBrains](https://github.com/Mixarder/Mixarder/blob/main/assets/diplomGB.png) - Тестировщик (ноябрь 2022 - апрель 2023)
-- [Stepik](https://stepik.org/cert/19351185) - Вселенная тестирования или как стать тестировщиком
+- [Stepik](https://stepik.org/cert/1935118) - Вселенная тестирования или как стать тестировщиком
 - [Stepik](https://stepik.org/cert/1939167) - Тестирование ПО: Postman для тестирования API
 - [QA*GURU](https://qa.guru/) - Курс по автоматизированному тестированию (*В процессе обучения*)
 - [СКФУ](https://github.com/Mixarder/Mixarder/blob/main/assets/skfu.png) - Юридический факультет (2001-2006)
-- [Центр Компьютерных технологий](*) - Мастер по ремонту ПК (2000)
+- [Центр Компьютерных технологий]() - Мастер по ремонту ПК (2000)
 
 <br>
 
