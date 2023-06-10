@@ -58,7 +58,7 @@
 
 *На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/Emotion.html) ("Экспорт из Confluence в Markdown")
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/Emotion.md) ("Экспорт из Confluence в Markdown")
 
 <br>
 
