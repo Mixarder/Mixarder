@@ -58,7 +58,7 @@
 
 *На проекте нет спецификации, поэтому  написал спек, чтоб писать чек листы и был порядок в тестировании.*
 
-- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/SD-Emotion(RUS)-280523-211847.pdf) ("Экспорт из Confluence в PDF происходит с нарушением форматирования, <br> как найду лучший способ, исправить это, обязательно все поправлю.")
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/Emotion.md) ("Экспорт из Confluence в Markdown")
 
 <br>
 
