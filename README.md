@@ -80,13 +80,19 @@
 
 <br>
 
+### **Баг репорты**
+
+[Martspec](https://docs.google.com/spreadsheets/d/1BJWbksLevkoyypaeEhppVwaMcPP3iMSkYI2Fy9lo5iQ/edit?usp=sharing) - сообщения о дефектах создаю в Jira. Для примера добавил в Гугл таблицы несколько штук.
+
+<br>
+
 ### **Отчет о тестировании**
 
 - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) - Держу руководителя в курсе о состояни продукта.
 
 <br><br>
 
-# **Автотестирование**
+# **Автоматизация тестирования**
 
 *Паралельно с выполнением своих обязанностей, осваиваю автоматизацию, что бы автоматизировать рутинные задачи.*<br>
 Тесты пишу на языке **JAVA** в **IntelliJ IDEA CE** для сборки использую **Gradle**<br>
@@ -95,9 +101,8 @@
 
 ### Авто-тест на проверку тегов title и meta
 
-1. [Главной страницы](https://martspec.com/) на наличие правильных тегов title и meta для поисковиков.
-2. Hаличие правильных тегов title и meta для страниц содержащихся в дропдаун на Главной странице.
-3. Тестирование в Локализациях: RU, EN, UK, DE, FR
+1. Проверка тегов title и meta для страниц содержащихся в дропдаун на Главной странице.
+2. Тестирование в Локализациях: RU, EN, UK, DE, FR
 
 - [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
 
