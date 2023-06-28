@@ -66,11 +66,14 @@
 
 - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md) - Положил начало тестированию в компании.
 
+- [Vitamin](https://github.com/Mixarder/Mixarder/blob/main/artefact/Vitamin_TestPlan.md) - Тест план по второму протестированному приложению.
  <br>
 
 ### **Чек листы**
 
-- [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) - На основе написанной спецификации, написал чек лист.
+- [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) 
+
+- [Vitamin](https://docs.google.com/spreadsheets/d/1_aQKvt4SWxL3eLpHKZwPYK7MHqhr2urCyvdOFEPprJE/edit?usp=sharing) 
 
 <br>
 
@@ -88,8 +91,9 @@
 
 ### **Отчет о тестировании**
 
-- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) - Держу руководителя в курсе о состояни продукта.
+- [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestReport.md) 
 
+- [Vitamin](https://github.com/Mixarder/Mixarder/blob/main/artefact/Vitamin_TestReport.md)
 <br><br>
 
 # **Автоматизация тестирования**
