@@ -1,5 +1,5 @@
 # План тестирования.
-20.06.2023 (v.1.6)
+20.06.2023 Витамин (v.1.6)
  
  <br>
 
@@ -58,7 +58,7 @@
 - [Чек лист](https://docs.google.com/spreadsheets/d/1_aQKvt4SWxL3eLpHKZwPYK7MHqhr2urCyvdOFEPprJE/edit?usp=sharing)
 
  <br>
- 
+
 Ресурсы отсутствующие для тестирования:
 -  Mac с процессорами Apple.
 
