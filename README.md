@@ -67,6 +67,8 @@
 - [Emotion](https://github.com/Mixarder/Mixarder/blob/main/artefact/EmotionTestPlan.md) - Положил начало тестированию в компании.
 
 - [Vitamin](https://github.com/Mixarder/Mixarder/blob/main/artefact/Vitamin_TestPlan.md) - Тест план по второму протестированному приложению.
+
+- [WEB](https://github.com/Mixarder/Mixarder/blob/main/artefact/Web_TestPlan.md) - Тест план по тестированию веб страниц [Martspec.com](https://martspec.com)
  <br>
 
 ### **Чек листы**
@@ -74,6 +76,8 @@
 - [Emotion](https://docs.google.com/spreadsheets/d/1OZubMCnl1pbZCLxDI4emdeFgaY2itGqePED_JuvEDv8/edit?usp=sharing) 
 
 - [Vitamin](https://docs.google.com/spreadsheets/d/1_aQKvt4SWxL3eLpHKZwPYK7MHqhr2urCyvdOFEPprJE/edit?usp=sharing) 
+
+- [WEB](https://docs.google.com/spreadsheets/d/1rDng-XWcmsgUr_ThcolIkHFFa6WycJEZiWJvq825iko/edit?usp=sharing)
 
 <br>
 
@@ -105,7 +109,7 @@
 
 ### Авто-тест на проверку тегов title и meta
 
-1. Проверка тегов title и meta для страниц содержащихся в дропдаун на Главной странице.
+1. Проверка тегов title и meta для страниц содержащихся в дропдаун "О Нас" на Главной странице.
 2. Тестирование в Локализациях: RU, EN, UK, DE, FR
 
 - [MartspecAutoTests](https://github.com/Mixarder/MartspecAutoTests)
