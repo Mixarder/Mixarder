@@ -139,17 +139,15 @@
 
  <br>
 
-# Коммуникбельность
+# Моя роль в компании
 
-*В Martspec провожу онбординг QA стажеров и распределяю поступаемые задачи.*
+*Так представляет меня руководитель, новым участникам проекта (@Mike - это я).*
 
-<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" target="_blank">
-  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic001.png" alt="pic001" style="max-width: 300px;">
+<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic003.png" target="_blank">
+  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic003.png" alt="pic003" style="max-width: 300px;">
 </a>
 
-<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" target="_blank">
-  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic002.png" alt="pic002" style="max-width: 300px;">
-</a>
+
 
 ## Связаться со мной
 
