@@ -6,7 +6,7 @@
 
 <br>
 
-[![Fun.png](https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png)](https://github.com/Mixarder)
+
 
 ## Мои навыки
 
@@ -155,3 +155,4 @@
 <br>
 <br>
 <br>
+[![Fun.png](https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png)](https://github.com/Mixarder)
