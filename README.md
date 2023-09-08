@@ -6,6 +6,8 @@
 
 <br>
 
+[![Fun.png](https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png)](https://github.com/Mixarder)
+
 ## Мои навыки
 
 ![GitHub](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github)
@@ -16,12 +18,12 @@
 ![charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=)
 ![c#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C)
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=grey)
-![Selenide](https://img.shields.io/badge/-selenide-090909?style=for-the-badge&logo=selenium)
-![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle&logoColor=blue)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-090909?style=for-the-badge&logo=intellijidea)
 ![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualStudioCode&logoColor=blue)
+<!-- ![IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-090909?style=for-the-badge&logo=intellijidea) -->
+<!-- ![Selenide](https://img.shields.io/badge/-selenide-090909?style=for-the-badge&logo=selenium) -->
+<!-- ![gradle](https://img.shields.io/badge/-gradle-090909?style=for-the-badge&logo=gradle&logoColor=blue) -->
 
 <br>
 
@@ -141,12 +143,7 @@
 
 # Моя роль в компании
 
-*Так представляет меня руководитель, новым участникам проекта (@Mike - это я).*
-
-<a href="https://github.com/Mixarder/Mixarder/blob/main/assets/pic003.png" target="_blank">
-  <img src="https://github.com/Mixarder/Mixarder/blob/main/assets/pic003.png" alt="pic003" style="max-width: 300px;">
-</a>
-
+[Тут](https://www.linkedin.com/posts/martspec_it-sturtup-sturtups-activity-7104478234242691072-rezh/?utm_source=share&utm_medium=member_ios), руководитель упоминает меня и мою помощь компании.
 
 
 ## Связаться со мной
