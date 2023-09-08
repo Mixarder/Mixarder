@@ -1,4 +1,8 @@
-[![MyHeader.png](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder)
+<p align="center">
+<img src="https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png" alt="Header">
+</p>
+
+<!-- [![MyHeader.png](https://github.com/Mixarder/Mixarder/blob/main/assets/myHeader.png)](https://github.com/Mixarder) -->
 
 > "Тестирование - это ключевой этап разработки программного обеспечения."
 
