@@ -157,8 +157,6 @@
 <br>
 
 
-<div style="text-align:center">
-
-  [![Fun.png](https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png)](https://github.com/Mixarder)
-
-</div>
+<p align="center">
+<img src="https://github.com/Mixarder/Mixarder/blob/main/assets/fun.png" alt="Fun_pic">
+</p>
